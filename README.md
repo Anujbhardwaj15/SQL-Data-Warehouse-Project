@@ -15,12 +15,13 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 Specifications
 Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
-Source_crm consists of below mentioned files
+
+Source_crm consists of  mentioned files
 1.cust_info.csv
 2.prd_info.csv
 3.sales_details
 
-Source_erp consists of below mentioned files
+Source_erp consists of mentioned files
 1.CUST_AZ12.csv
 2.LOC_A101.csv
 3.PX_CATG1V2.csv
