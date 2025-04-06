@@ -1,5 +1,7 @@
 # SQL-Data-Warehouse-Project
 Medallion Architecture| Data Warehouse | Including ETL processes, data modeling, and analytics| SQL Server
+
+
 Welcome to the Data Warehouse and Analytics Project Repository!
 
 This project showcases a complete data warehousing and analytics solution—covering everything from building the data warehouse to deriving actionable insights. Designed as a portfolio project, it demonstrates industry best practices in data engineering and analytics.
