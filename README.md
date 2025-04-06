@@ -15,9 +15,22 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 Specifications
 Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
+Source_crm consists of below mentioned files
+1.cust_info.csv
+2.prd_info.csv
+3.sales_details
+
+Source_erp consists of below mentioned files
+1.CUST_AZ12.csv
+2.LOC_A101.csv
+3.PX_CATG1V2.csv
+
 Data Quality: Cleanse and resolve data quality issues prior to analysis.
+
 Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
+
 Scope: Focus on the latest dataset only; historization of data is not required.
+
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 BI: Analytics & Reporting (Data Analysis)
